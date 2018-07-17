@@ -1,0 +1,6 @@
+<ul class="nav nav-pills nav-stacked navbar-default">
+	<li><a href="controllerUsuario?action=profile">Troféus</a></li>
+	<li><a href="controllerUsuario?action=listaDeLivros">Livros</a></li>
+	<li><a href="controllerUsuario?action=livrosLidos">Livros Lidos</a></li>
+    <li><a href="controllerUsuario?action=ranking">Ranking</a></li>
+  </ul>

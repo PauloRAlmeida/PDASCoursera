@@ -1,0 +1,19 @@
+<div class="navbar navbar-inverse" role="navigation">
+   <div class="container">
+      <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+       <a class="navbar-brand" href="">Livros ITA/COURSERA</a>
+     </div>
+     <div class="navbar-collapse collapse">
+        <div class="row" style="padding-top: 10px;">
+           <a href="IndexController?action=criarConta" class="btn btn-sm btn-success navbar-right" role="button">Registrar-se</a>
+           <a href="IndexController?action=login" style="margin-right: 10px;" class="btn btn-sm btn-success navbar-right offset" role="button">Login</a>
+        </div>
+     </div>
+   </div>
+</div>
